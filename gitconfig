@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = e.mayoute44@gmail.com
+	name = erika mayoute
